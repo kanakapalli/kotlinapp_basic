@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">talentlogic</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="password" />
+    <string name="username" />
+    <string name="forgot_password" />
+    <string name="log_in" />
+    <string name="button">Button</string>
+    <string name="todo">TODO</string>
+</resources>
